@@ -1,11 +1,11 @@
-<h1 align="center">Hi! I'm Ananya Singh</h1>
+<h1 align="center">Hi ! I'm Ananya Singh</h1>
 <h3 align="center">A passionate frontend developer from India, skilled in Full-stack Web development. Also experienced in and Machine Learning and DSA for optimized, scalable solutions. Let's build the future together! 🚀</h3>
 
-- 🌱 I’m currently learning **Full-stack Web Developement , DSA and AI-ML**
+- I’m currently learning **Full-stack Web Developement , DSA and AI-ML**
 
-- 💬 Ask me about **dsa, core computer science like OS, DBMS and CN**
+- Ask me about **dsa, core computer science like OS, DBMS and CN**
 
-- 📫 How to reach me **ananyaniks3@gmail.com**
+- How to reach me **ananyaniks3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
